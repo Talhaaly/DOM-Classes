@@ -1,0 +1,16 @@
+# gitHub Steps :-
+# 1- git init
+# 2-git config --global user.name
+# 3-git config --global user.name "Talha Ali Akber"
+# 4-git config --global user.email
+# 5-git config --global user.email "talhaalygmail.com"
+# 6-git add .
+# 7-git status
+# 8- git commit -m "commit"
+# 9- git branch -M main/master
+# 10- git remote add origin url
+# 11- git push -u origin main/master
+# Excess Token - Profile Setting -  Developer Setting - Personal Eexcess Token -  Generate new Toke  classic - Write Note - Check All Thing /Only Delete Repo - Generate Token & Copy Token 
+
+
+
