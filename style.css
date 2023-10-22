@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hone{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn {
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
